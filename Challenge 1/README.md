@@ -38,6 +38,6 @@ Example : [Survey](https://arxiv.org/pdf/2107.07045)
 
 ## Instructions 
 
-Fork this repo, and commit your changes to a new branch with your name.
+Fork this repo, and add your notebook to the solutions folder as "your_name.py"
 
 ### Best solution gets to present it out for everyone!
