@@ -1,4 +1,7 @@
-# Optimization and Explainable Representation of a Dataset
+# Optimization and Explainable Representation
+
+![image](https://github.com/user-attachments/assets/e10f393b-2402-40c1-9716-9dd8ab274555)
+
 
 ## Overview
 
