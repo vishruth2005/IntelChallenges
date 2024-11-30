@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project involves two sequential tasks aimed at understanding a dataset's underlying structure and behavior. The dataset contains 12 independent variables and a single dependent variable $y$ such that $y = f(x_1, x_2, \dots, x_{12})$.
+This project involves two sequential tasks aimed at understanding a dataset's underlying structure and behavior. The dataset contains 12 independent variables and a single dependent variable $y$ such that $y = f(x_1, x_2, \dots, x_{12})$. This is incorporated in the csv file in this folder.
+
 - **Task 1:** Optimize the function $f(x)$ to find its minima using any suitable method.  
 - **Task 2:** Represent the functional relationship between $y$ and the variables $(x_1, x_2, \dots, x_{12})$ in a comprehensible form. This involves employing methods that enhance explainability in artificial intelligence (AI).
 
